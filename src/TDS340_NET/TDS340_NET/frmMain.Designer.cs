@@ -146,7 +146,7 @@
             this.txtLogText.Name = "txtLogText";
             this.txtLogText.ReadOnly = true;
             this.txtLogText.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtLogText.Size = new System.Drawing.Size(839, 124);
+            this.txtLogText.Size = new System.Drawing.Size(862, 124);
             this.txtLogText.TabIndex = 5;
             // 
             // label4

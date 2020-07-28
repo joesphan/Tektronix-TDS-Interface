@@ -35,7 +35,14 @@ namespace TDS340_NET
         {
             this.cboBaudRate.SelectedIndex = 2; // select 38400
             string[] ports = SerialPort.GetPortNames();
-            this.comPortNum.Value = int.Parse(ports[0].Substring(3));
+            try
+            {
+                this.comPortNum.Value = int.Parse(ports[0].Substring(3));       //auto select com ports
+            }
+            catch (IndexOutOfRangeException)
+            {
+                this.comPortNum.Value = 1;      //if no com ports available
+            }
         }
 
         private void btnSaveSerialSettings_Click(object sender, EventArgs e)

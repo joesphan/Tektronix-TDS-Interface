@@ -8,3 +8,13 @@ C:\Users\joesp\Desktop\TDS340_NET\TDS340_NET\obj\Release\TDS340_NET.csproj.CoreC
 C:\Users\joesp\Desktop\TDS340_NET\TDS340_NET\obj\Release\TDS340_NET.exe
 C:\Users\joesp\Desktop\TDS340_NET\TDS340_NET\obj\Release\TDS340_NET.pdb
 C:\Users\joesp\Desktop\TDS340_NET\TDS340_NET\obj\Release\TDS340_NET.csprojAssemblyReference.cache
+C:\Users\joesp\Desktop\oscilloscope\software\src\TDS340_NET\TDS340_NET\bin\Release\TDS340_NET.exe.config
+C:\Users\joesp\Desktop\oscilloscope\software\src\TDS340_NET\TDS340_NET\bin\Release\TDS340_NET.exe
+C:\Users\joesp\Desktop\oscilloscope\software\src\TDS340_NET\TDS340_NET\bin\Release\TDS340_NET.pdb
+C:\Users\joesp\Desktop\oscilloscope\software\src\TDS340_NET\TDS340_NET\obj\Release\TDS340_NET.csprojAssemblyReference.cache
+C:\Users\joesp\Desktop\oscilloscope\software\src\TDS340_NET\TDS340_NET\obj\Release\TDS340_NET.frmMain.resources
+C:\Users\joesp\Desktop\oscilloscope\software\src\TDS340_NET\TDS340_NET\obj\Release\TDS340_NET.Properties.Resources.resources
+C:\Users\joesp\Desktop\oscilloscope\software\src\TDS340_NET\TDS340_NET\obj\Release\TDS340_NET.csproj.GenerateResource.cache
+C:\Users\joesp\Desktop\oscilloscope\software\src\TDS340_NET\TDS340_NET\obj\Release\TDS340_NET.csproj.CoreCompileInputs.cache
+C:\Users\joesp\Desktop\oscilloscope\software\src\TDS340_NET\TDS340_NET\obj\Release\TDS340_NET.exe
+C:\Users\joesp\Desktop\oscilloscope\software\src\TDS340_NET\TDS340_NET\obj\Release\TDS340_NET.pdb
